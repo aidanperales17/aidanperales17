@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello! My name is Aidan Perales and I am a CS/Neuro student at Johns Hopkins University. 
+
+I am currently looking for opportunities to connect with seniors in the field as well as other peers! I have an interest in app development and web design and I look forward to learning more!
+
+I love being a creator!
+
+
 
 <!--
 **aidanperales17/aidanperales17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
